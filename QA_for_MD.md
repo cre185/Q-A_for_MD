@@ -145,7 +145,7 @@ int main()
 和上面的网页链接很像不是吗 实际上也是一个套路  
 方括号写名 圆括号链接和可选的说明信息  
 例：  
-![pic](./exusial.jpg "大慈大悲贫铀弹，一息三千六百转")  
+![pic](https://gitee.com/cre185/pic-for-md/raw/master/1070341.jpg "大慈大悲贫铀弹，一息三千六百转")  
 
     ![pic](xxx.jpg "大慈大悲贫铀弹，一息三千六百转")<-路径根据情况变化
 （以笔者理解的话 图片的名字就是写给自己看的）  
@@ -153,7 +153,7 @@ int main()
 #### `[![]()]()`：图片带网页链接  
 套娃版本 实际上能看出 本质就是在网页链接的`[]`描述名里放了个图片链接  
 例：  
-[![pic](./senpai.jpg "压力马斯内")](http://www.114514.com)  
+[![pic](https://gitee.com/cre185/pic-for-md/raw/master/senpai.jpg "压力马斯内")](http://www.114514.com)  
 
     [![pic](xxx.jpg "压力马斯内")](http://www.114514.com)  
 说明信息在笔者测试下 为图片内的（内层处的）优先生效 也可以写在最后的圆括号内 但都有的话则是内层的生效  
@@ -178,3 +178,7 @@ int main()
 
 这一QA文档到此就结束了  
 合集详见[这里](https://gitee.com/cre185/pic-for-md "MDFile文件夹")  
+
+补充内容：markdown数学公式写法  
+数学字符与公式：详见(https://blog.csdn.net/weixin_43159148/article/details/88621318)
+md写矩阵：详见(https://zhuanlan.zhihu.com/p/269245898)

@@ -177,7 +177,7 @@ int main()
 |&#124;|管道|  
 
 这一QA文档到此就结束了  
-合集详见[这里](https://gitee.com/cre185/pic-for-md "MDFile文件夹")  
+合集详见[这里](https://github.com/cre185/QA_for_MD)  
 
 补充内容：markdown数学公式写法  
 数学字符与公式：详见(https://blog.csdn.net/weixin_43159148/article/details/88621318)

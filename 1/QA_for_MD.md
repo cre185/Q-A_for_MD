@@ -1,7 +1,7 @@
 # Q&A File For Writing Md Files
 ***Created by creeper185 2022.12.17***
 
-### **本篇为语法说明**
+## 本篇为语法说明
 #### `#`：标题符号  
 放置于句首即可 多个#连用表示标题不同级数  
 例：  
@@ -44,7 +44,7 @@
 - this
   is
   a
-  nother.   （实际写的部分像这样）
+  nother.  
 ```
 #### `>`：引用符号 放在行首 产生开头带一小条的框  
 可以嵌套使用 框里加框  
@@ -178,7 +178,3 @@ int main()
 
 这一QA文档到此就结束了  
 合集详见[这里](https://github.com/cre185/QA_for_MD)  
-
-补充内容：markdown数学公式写法  
-数学字符与公式：详见(https://blog.csdn.net/weixin_43159148/article/details/88621318)
-md写矩阵：详见(https://zhuanlan.zhihu.com/p/269245898)
